@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comparador de Textos</string>
+    <string name="button_compare">Comparar</string>
+    <string name="result_equal">Los textos son iguales</string>
+    <string name="result_not_equal">Los textos son diferentes</string>
+    <string name="editText1">Texto 1</string>
+    <string name="editText2">Texto 2</string>
+
+</resources>
